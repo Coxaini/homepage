@@ -196,7 +196,6 @@ body {
 }
 
 .experiences__company-project {
-    margin-left: 15px;
     margin-bottom: 25px;
 }
 
@@ -214,6 +213,11 @@ body {
 }
 
 .experiences__company-project-responsibilities {
+    color: var(--secondary-text-color);
+    padding-left: 20px;
+}
+
+.experiences__company-project-description {
     color: var(--secondary-text-color);
     padding-left: 20px;
 }
